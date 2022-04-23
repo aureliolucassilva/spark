@@ -7,6 +7,7 @@ Local para adicionar projetos pessoais utilizando bases públicas disponíveis e
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 <a href="https://colab.research.google.com/drive/1r-xk5SuYVDVqOR_ngbdt02Pr5LU2Rou1#scrollTo=7giaEKnbAhPN">
+  Fórmula 1
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Fórmula 1"/>
 </a>
 
